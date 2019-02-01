@@ -1,0 +1,16 @@
+.app__button {
+    border: 0;
+    margin-top:8px;
+    padding: 10px 20px;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    opacity: .8;
+    outline: 0;
+    color: black;
+    text-decoration-color: black
+  }
+ .app__button a{
+     text-decoration: none;
+     color: black
+ } 
